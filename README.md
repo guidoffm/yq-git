@@ -1,2 +1,3 @@
 # yq-git
-Helper
+
+Debian with `yq` and `git` installed.
